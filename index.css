@@ -1,0 +1,47 @@
+*{
+  margin: 0;
+}
+.head{
+  padding: 2% 5%;
+  background-color: #404040;
+  display: flex;
+  gap: 20px;
+}
+.head a{
+  text-decoration: none;
+  color: white;
+}
+.mid{
+  width: 90%;
+  margin: 1vh auto;
+  background-color: whitesmoke;
+  padding: 1%;
+}
+.txt{
+  width: 50%;
+  display: block;
+  padding: 1%;
+  margin-bottom: 1vh;
+}
+button{
+  padding: 1% 2%;
+  background-color: royalblue;
+  display: block;
+  color: white;
+}
+img{
+  width: 100%;
+  height: 50vh;
+  margin: 1vh auto;
+}
+/* .banner{
+  height: 40vh;
+  width: 90%;
+  margin: 10vh auto;
+  
+}
+.banner img{
+  width: 100%;
+  background-position: center;
+  background-size: cover;
+} */
